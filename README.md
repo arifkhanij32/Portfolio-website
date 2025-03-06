@@ -126,7 +126,7 @@ This project is **Free To Use** and does not contains any license.
 
 # Portfolio Website
 
-This is a simple portfolio website built using Flask, HTML, CSS, and JavaScript.
+This is a simple portfolio website built using Flask, HTML, CSS, JavaScript and Flask.
 
 ## Setup
 
